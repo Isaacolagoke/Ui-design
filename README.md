@@ -1,10 +1,10 @@
 # UI Design
+<a href="https://profhyzik.github.io/Ui-design/#/">Gh Pages Demo</a>
 
 > A Vue.js project
 
 ## Build Setup
 
-``` bash
 # install dependencies
 npm install
 
