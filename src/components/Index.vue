@@ -193,6 +193,7 @@ export default {
     grid-template-columns: 1fr 1fr;
 }
 body{
+    background: #ddd;
     font-family: 'Montserrat', sans-serif;
     height: 100%;
     margin: 0;
@@ -220,6 +221,7 @@ section{
     width: 350px;
     margin: 20px;
     box-shadow: 0 2px 6px 0 #ddd;
+    background: #fff;
 }
 
 .navigation{
@@ -340,6 +342,7 @@ footer{
     box-shadow: 0 2px 6px 0 #ddd;
     display: grid;
     grid-template-rows: 1fr 1fr;
+    background: #fff;
 }
 .first-div{
     background: #2c98fb;
