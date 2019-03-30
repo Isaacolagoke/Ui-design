@@ -184,6 +184,14 @@ export default {
 
 
 <style>
+.body{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
 body{
     font-family: 'Montserrat', sans-serif;
     height: 100%;
